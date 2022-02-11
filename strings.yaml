@@ -3,26 +3,20 @@ branding:
   org: People's Action
   orgDomain: peoplesaction.org
   prettyName: About Library
-  favicon: https://peoplesaction.org/wp-content/uploads/2016/10/PeoplesAction-icon.png
-  icon: https://peoplesaction.org/wp-content/uploads/2016/10/PeoplesAction-icon.png
+  favicon: /assets/images/PeoplesAction-icon.png
+  icon: /assets/images/PeoplesAction-icon.png
 
 landing:
-  tagline: A simple documentation site, built from content in Google Docs.
+  tagline: People's Action documentation site, built from content in Google Docs.
   viewAll: View All Docs
   quickLink: <a href="/get-started">Get started</a>.
 
 footer:
-  helpText: For help contributing or to report a problem, consult <a href="https://github.com/nytimes/library">the Library GitHub repository</a>.
-  defaultEmail: test.user@nytimes.com
+  helpText: For help contributing or to report a problem, contact the <a href="mailto:tools@peoplesaction.org">Data & Technology Team</a>.
+  defaultEmail: tools@peoplesaction.org
 
-search:
-  placeholder: What do you want to know about Library?
-  results:
-    none:
-      suggestion: To request a new page, submit <a href="https://github.com/nytimes/library">a PR on GitHub</a>.
-
-# errors
-error:
-  403:
-    message: "<p>For this documentation site, we've disabled the final step of the Move File workflow. Normally, this request would succeed and you'd be taken to the new url for your page.</p>"
-
+#search:
+#  placeholder: What do you want to know about Library?
+#  results:
+#    none:
+#      suggestion: To request a new page, submit <a href="https://github.com/nytimes/library">a PR on GitHub</a>.
