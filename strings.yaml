@@ -3,8 +3,8 @@ branding:
   org: People's Action
   orgDomain: peoplesaction.org
   prettyName: About Library
-  favicon: /assets/images/PeoplesAction-icon.png
-  icon: /assets/images/PeoplesAction-icon.png
+  icon: /assets/images/icon-logo.svg
+  favicon: /assets/images/library.ico
 
 landing:
   tagline: People's Action documentation site, built from content in Google Docs.
