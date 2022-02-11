@@ -4,7 +4,7 @@ branding:
   orgDomain: peoplesaction.org
   prettyName: About Library
   favicon: /assets/images/library.ico
-  icon: /assets/PeoplesAction-icon.png
+  icon: /custom/assets/PeoplesAction-icon.png
 
 landing:
   tagline: A simple documentation site, built from content in Google Docs.
